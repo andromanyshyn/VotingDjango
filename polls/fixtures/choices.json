@@ -1,0 +1,38 @@
+[
+  {
+    "model": "polls.choice",
+    "pk": 1,
+    "fields": {
+      "question": 1,
+      "choice_text": "Its all good,thanks",
+      "votes": 3
+    }
+  },
+  {
+    "model": "polls.choice",
+    "pk": 2,
+    "fields": {
+      "question": 1,
+      "choice_text": "I`m not really good",
+      "votes": 1
+    }
+  },
+  {
+    "model": "polls.choice",
+    "pk": 3,
+    "fields": {
+      "question": 2,
+      "choice_text": "Yes",
+      "votes": 2
+    }
+  },
+  {
+    "model": "polls.choice",
+    "pk": 4,
+    "fields": {
+      "question": 2,
+      "choice_text": "No",
+      "votes": 1
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "model": "polls.question",
+    "pk": 1,
+    "fields": {
+      "question_text": "Whats new?",
+      "pub_date": "2022-12-22T16:37:44Z"
+    }
+  },
+  {
+    "model": "polls.question",
+    "pk": 2,
+    "fields": {
+      "question_text": "Do you like Animals?",
+      "pub_date": "2023-01-24T14:49:50.770Z"
+    }
+  }
+]
